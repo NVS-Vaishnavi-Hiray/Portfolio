@@ -11,12 +11,9 @@ function AboutCard() {
             Hi everyone! I’m <span className="purple">Vaishnavi Hiray</span>{" "}
             from <span className="purple">Malegaon, India</span>.
             <br/>
-            I’m currently working as a {"Novius Teachnology Pvt,Ltd "}
-            <span className="purple"> Software Developer </span> at,{" "}
-            {/* <span className="purple">Juspay</span>. */}
-            <br/>I hold an Integrated BCS in {"Sppu University Malegaon"}
-            <span className="purple"> Computer Science </span> from {" Malegaon."}
-            {/* <span className="purple">BIT Mesra</span>. */}
+            I’m currently working as a <span className="purple">Software Developer</span> at <span className="purple">Novius Technology Pvt. Ltd.</span>
+            <br/>
+            I hold an <span className="purple">Integrated BCS (Bachelor of Computer Science)</span> degree from Savitribai Phule Pune University (SPPU), Malegaon.
             <br/>
             <br/>
             Outside of coding, I love engaging in activities that keep me

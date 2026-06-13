@@ -31,18 +31,15 @@ function Home2() {
               <br />
               My key areas of interest include developing
               <i>
-                <b className="purple">
-                  {" "}
-                  Web Applications, Software Developer,{" "}
-                </b>
+                <b className="purple"> Web Applications </b> and {" "}
+                <b className="purple">Enterprise Software systems</b>.
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
               <br />
               <br />
               Whenever possible, I love building projects with
               <b className="purple"> Node.js </b> and modern frameworks like{" "}
               <i>
-                <b className="purple">React.js</b> and{" "}
+                <b className="purple">React.js</b> and <b className="purple">Express.js</b>.
               </i>
             </p>
           </Col>
